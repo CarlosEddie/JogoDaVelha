@@ -1,4 +1,4 @@
-public class JogoDaVelha {
+public class JogoDaVelhaMain {
 	public static void main(String[] args) {
 		Jogada jogar = new Jogada(); 
 		jogar.jogadaValida();
